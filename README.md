@@ -1,3 +1,3 @@
 # Billing-system
 
-// This project is made using programming language C++
+This application is made using programming language C++
